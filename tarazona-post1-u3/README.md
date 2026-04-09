@@ -30,7 +30,7 @@ La página incluye:
 ---
 
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - HTML5  
 - CSS3  
 - Visual Studio Code  
